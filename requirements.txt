@@ -1,0 +1,23 @@
+# Core Dependencies
+streamlit==1.31.0
+python-dotenv==1.0.0
+
+# LangChain & LangGraph
+langchain==0.1.10
+langchain-openai==0.0.8
+langchain-community==0.0.25
+langgraph==0.0.26
+langchain-core==0.1.27
+
+# Vector Store
+chromadb==0.4.22
+
+# Database
+sqlalchemy==2.0.27
+
+# OpenAI
+openai==1.12.0
+
+# Monitoring (Optional)
+langfuse==2.16.0
+langfuse-langchain==0.0.2
